@@ -1,7 +1,6 @@
 # 📊 Eternal Limited (formerly Zomato) — 5-Year Financial Model & Turnaround Analysis (FY2022–FY2026)
 
 [![Excel](https://img.shields.io/badge/Model-Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)](https://github.com/)
-[![AI-Assisted](https://img.shields.io/badge/Formulated_with-Antigravity_Agentic_AI-4285F4?logo=google&logoColor=white)](https://github.com/)
 [![NSE: ETERNAL](https://img.shields.io/badge/NSE-ETERNAL-red)](https://www.nseindia.com/)
 [![BSE: 543320](https://img.shields.io/badge/BSE-543320-blue)](https://www.bseindia.com/)
 
@@ -10,15 +9,9 @@
 ## 📌 Project Overview
 An institutional-grade 5-year financial model, ratio analysis, and segment unit economics study of **Eternal Limited** (formerly Zomato Limited), synthesized directly from 5 audited consolidated annual reports covering **FY2021-22 through FY2025-26** (>1,500 pages of statutory filings).
 
-The model tracks Eternal's transformation from an early cash-burning food aggregator into a multi-engine, cash-generative consumer ecosystem anchored by **Quick Commerce (Blinkit)** and **Food Delivery (Zomato)**.
+The model analyzes Eternal's financial transformation from an early cash-burning food delivery aggregator into a multi-engine, cash-generative consumer platform anchored by **Quick Commerce (Blinkit)** and **Food Delivery (Zomato)**.
 
----
-
-## 🤖 Formulated with Antigravity (Agentic AI)
-This project was researched, reconciled, and formulated using **Antigravity** (Google DeepMind's agentic AI assistant):
-- **Automated Statutory PDF Extraction**: Parsed multi-year financial statements, schedules, and disclosures directly from 5 audited Annual Report PDFs without manual transcription errors.
-- **Footnote Cross-Referencing**: Identified and resolved critical accounting transitions, notably **Ind AS 115 Note 34** (Blinkit's transition to an owned-inventory model) and **Ind AS 116** lease capitalization across 2,243 dark stores.
-- **Audit Reconciliation**: Built an itemized audit trail (`Source Register`) cross-referencing all 100+ metrics back to exact report and PDF page numbers, maintaining a **0.0 balance sheet check**.
+> **Note on Methodology:** Statutory filing extraction, multi-year footnote cross-referencing (Ind AS 115 Note 34 and Ind AS 116 lease schedules), and balance sheet reconciliations across the 5 annual reports were supported using Google DeepMind's Antigravity agentic workspace.
 
 ---
 
